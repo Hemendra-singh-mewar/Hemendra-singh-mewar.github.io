@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hemendra-singh-mewar.github.io/sitemap.xml
