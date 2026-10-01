@@ -32,7 +32,19 @@ My earlier MSc work at Cardiff University investigated shorter wavelength laser 
 
 ## Background
 
-My academic background spans mechanical engineering, physics and astrophysics, including an MSc in Astrophysics at Cardiff University. I now combine modelling and experimental work in doctoral research at the University of Liège.
+I am a researcher with a background in mechanical engineering, thermal and green engineering, physics and astrophysics. At the University of Liège’s Precision Mechatronics Laboratory, I contribute to Einstein Telescope research through ET CRISTAL, studying cryogenic silicon, mechanical loss and optical thermometry with thermal noise as a central focus.
+
+Earlier in my career, I worked as a scientist at India’s Ministry of New and Renewable Energy (MNRE). During this period, I was also based in Oxford and undertook part-time study at the University of Oxford. My work in sustainable solar technologies includes patents relating to transparent and flexible solar panels.
+
+I subsequently resigned from my government position to pursue astrophysics, completing an MSc in Astrophysics at Cardiff University before beginning my doctoral research in Liège. This transition brought my experience in thermal engineering and materials into the study of gravitational wave detector technology.
+
+Alongside my research, I have founded and continue to manage firms focused on green engineering and advanced sustainable technologies, with operations in the United States, United Kingdom and India.
+
+Science communication is an important part of my work. I value collaborations that connect people with science and make research accessible beyond the laboratory.
+
+## Interests
+
+Gravitational wave astronomy · Physics · Sustainability and green engineering · Mechanical engineering
 
 ## Publications, talks and contact
 
